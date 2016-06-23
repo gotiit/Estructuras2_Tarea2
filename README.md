@@ -3,8 +3,7 @@ Universidad de Costa Rica, Curso: Estructurs de Computadoras Digitales 2
 
 
 Estudiantes:
-
-Boanerges Martinez
+Boanerges Martinez,
 Brayan Morera
 
 
