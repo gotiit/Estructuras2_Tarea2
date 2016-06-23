@@ -1,6 +1,14 @@
 # Estructuras2_Tarea2
 Universidad de Costa Rica, Curso: Estructurs de Computadoras Digitales 2
 
+
+Estudiantes:
+
+Boanerges Martinez
+
+Brayan Morera
+
+
 Instrucciones de compilar y ejecutar el programa:
 
 Compile: $ g++ -std=c++11 -Wall -c archivo.cpp
